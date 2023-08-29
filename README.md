@@ -51,10 +51,10 @@
 ## Пример кода
 
 ```bash
-git clone https://github.com/dodzh86/rebrain-devops-task1.git
+git clone https://gitlab.rebrainme.com/devops_users_repos/5248/rebrain-devops-task1.git
 cd rebrain-devops-task1
-touch new-file.txt
-git add new-file.txt
-git commit -m "Добавлен новый файл"
-git push origin main
+touch nginx.conf
+git add nginx.conf
+git commit -m "Added nginx.conf file"
+git push dodzh86_at_rebrain
 
