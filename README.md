@@ -56,5 +56,5 @@ cd rebrain-devops-task1
 touch nginx.conf
 git add nginx.conf
 git commit -m "Added nginx.conf file"
-git push dodzh86_at_rebrain
+git push dodzh86_at_rebrain master
 
